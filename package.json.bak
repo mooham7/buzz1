@@ -1,0 +1,19 @@
+{
+  "name": "buzzteddy2022",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The Dark Side of the Keto Diet:Long-Term Consequences You Might not Expect",
+  "keywords": [
+    "keto diet",
+    "keto diet plan",
+    "what keto diet",
+    "keto breakfast",
+    "keto diet food",
+    "keto diet"
+  ],
+  "repository": "https://github.com/mooham7/buzz.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
